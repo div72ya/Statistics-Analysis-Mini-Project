@@ -70,6 +70,7 @@ The goal was to extract meaningful insights that can support business decision-m
 | File | Description |
 |------|------------|
 | `Statistics_mini_project.ipynb` | Full code and analysis |
+| `US_Customer_Insights_Dataset.csv` | Dataset Used |
 | `README.md` | Project documentation |
 
 ---
